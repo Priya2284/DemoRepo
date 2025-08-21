@@ -9,6 +9,6 @@ public class AddNumbers {
         int sum = number1 + number2 + number3;
 
         // Print the result to the console
-        System.out.println("The sum of " + number1 + " and " + number2 + "and" + number3 + " is: " + sum);
+        System.out.println("The sum of " + number1 + " and " + number2 + " and " + number3 + " is: " + sum);
     }
 }
